@@ -21,4 +21,4 @@ Deployed using Streamlit Cloud.
 
 ## 👨‍💻 Author
 Abhishek Kumar
-Computer Science Engineering
+
